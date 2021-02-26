@@ -2,7 +2,7 @@
 
 Official Open Project 4 automation and community
 
-### Main Sponsor
+## Main Sponsor
 
 Alfagomma Dev Group
 
