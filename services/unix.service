@@ -1,0 +1,14 @@
+[Unit]
+Description=Service description
+Documentation=Service documentation url
+After=network.target
+
+[Service]
+EnvironmentFile=
+Type=simple
+User=ubuntu
+ExecStart=
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
